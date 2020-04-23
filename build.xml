@@ -1,4 +1,4 @@
-<project name="MyApplication" default="dist" basedir=".">
+<project name="Ant" default="dist" basedir=".">
     <description>
     simplest example build file
   </description>
