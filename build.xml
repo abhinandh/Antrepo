@@ -6,6 +6,6 @@
 </java>
 </target>
 <target name="compile">
-<javac scrdir="./" destdir="dest"/>
+<javac srcdir="./" destdir="dest"/>
 </target>
 </project>
