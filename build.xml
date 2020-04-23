@@ -26,7 +26,7 @@
         <mkdir dir="${dist}/lib" />
  
         <!-- Put everything in ${build} into the MyApplication-${version}.${build.number}.jar -->
-        <jar destfile="${dist}/lib/MyApplication-${version}.${build.number}.jar" basedir="${build}" />
+        <jar destfile="${dist}/lib/Ant-${version}.${build.number}.jar" basedir="${build}" />
     </target>
  
     <target name="clean" description="clean up">
